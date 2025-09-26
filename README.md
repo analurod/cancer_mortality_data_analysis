@@ -12,7 +12,7 @@ Este é um projeto desenvolvido na Disciplina de Probabilidade e Estatística, n
 ## 📁 Estrutura
 
 - `projeto.R`: código principal em R
-- `base.xlsx`: base de dados (não incluída, por questões de privacidade)
+- `base.xlsx`: base de dados 
 - `README.md`: este arquivo
 
 ## 🧪 Requisitos
